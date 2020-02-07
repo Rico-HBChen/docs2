@@ -9,7 +9,6 @@ Welcome to Rico_learn_docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    hello
    good
